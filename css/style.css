@@ -229,7 +229,7 @@ body,
   background: #3b8dbd;
 }
 body {
-  background: #fff0f5 /* #eaeaea*/;
+  background: #fff0f5 /*里面的文章底色是浅粉*/ /* #eaeaea*/;
   font: 14px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -402,7 +402,7 @@ code {
 }
 .nav-container {
   padding: 0 15px;
-  background: #33363b;
+  background: #dc143c /*#33363b*/;
   z-index: 1;
   -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.05), 0 -1px 0 rgba(0,0,0,0.2), inset 1px 0 0 rgba(0,0,0,0.2), inset -1px 0 0 rgba(0,0,0,0.2);
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.05), 0 -1px 0 rgba(0,0,0,0.2), inset 1px 0 0 rgba(0,0,0,0.2), inset -1px 0 0 rgba(0,0,0,0.2);
@@ -482,7 +482,7 @@ code {
   overflow: hidden;
   position: absolute;
   width: 180px;
-  background: #33363b url("images/opacity-10.png") repeat;
+  background: #dc143c /*#33363b*/ url("images/opacity-10.png") repeat;
 }
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-child li {
   -webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.06);
@@ -1258,7 +1258,7 @@ a.article-title:hover {
   line-height: 1em;
   padding: 6px 15px;
   border-radius: 15px;
-  background: #fff0f5 /* #eaeaea*/;
+  background: #fff0f5 /*里面的文章底色是浅粉*/ /* #eaeaea*/;
   color: #aaa;
   text-shadow: 0 1px #fff;
   text-decoration: none;
@@ -1332,7 +1332,7 @@ a.article-title:hover {
   line-height: 36px;
 }
 .article-share-links {
-  background: #fff0f5 /* #eaeaea*/;
+  background: #fff0f5 /*里面的文章底色是浅粉*/ /* #eaeaea*/;
 }
 .article-share-links:before,
 .article-share-links:after {
@@ -1619,7 +1619,7 @@ a.article-title:hover {
   color: #ddd;
 }
 #footer {
-  background: #33363b;
+  background: #dc143c /*#33363b*/;
   margin-top: 60px;
   color: #aaa;
   line-height: 1.6em;
@@ -1635,7 +1635,7 @@ a.article-title:hover {
   padding: 30px;
 }
 #footer #back-to-top {
-  background: #fff0f5 /* #eaeaea*/;
+  background: #fff0f5 /*里面的文章底色是浅粉*/ /* #eaeaea*/;
   color: #777;
   overflow: hidden;
   text-align: center;
