@@ -711,12 +711,12 @@ code {
   line-height: 1.6em;
   word-wrap: break-word;
   font-size: 0.9em;
-  color: #777;
+  color: #ffb6c1 /*#777*/;
   border-radius: 3px;
 }
 .widget a {
   text-decoration: none;
-  color: #777;
+  color: #ffb6c1 /*#777*/;
 }
 .widget a:hover {
   color: #444;
@@ -769,7 +769,7 @@ code {
 }
 .widget-list ul li a,
 .widget-list ol li a {
-  color: #777;
+  color: #ffb6c1 /*#777*/;
 }
 .widget-list ul li a:before,
 .widget-list ol li a:before {
