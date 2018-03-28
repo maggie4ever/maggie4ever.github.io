@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-28T07:51:29.898Z</updated>
+  <updated>2018-03-28T07:52:46.414Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2018/03/28/2/"/>
     <id>http://yoursite.com/2018/03/28/2/</id>
     <published>2018-03-28T07:13:09.582Z</published>
-    <updated>2018-03-28T07:51:29.898Z</updated>
+    <updated>2018-03-28T07:52:46.414Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: 第二个<br>date: 2018-01-01 23:47:44 #文章生成時間<br>categories: “读书笔记” #文章分類目錄 可以省略<br>tags: #文章標籤 可以省略</p><pre><code>- 第二个 标签1    - 标签2</code></pre><hr><p>第二个你好</p>]]></content>
+    <content type="html"><![CDATA[<hr><p>date: 2018-01-01 23:47:44 #文章生成時間<br>title: 第二个<br>categories: “读书笔记” #文章分類目錄 可以省略<br>tags: #文章標籤 可以省略</p><pre><code>- 第二个 标签1    - 标签2</code></pre><hr><p>第二个你好</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;hr&gt;
-&lt;p&gt;title: 第二个&lt;br&gt;date: 2018-01-01 23:47:44 #文章生成時間&lt;br&gt;categories: “读书笔记” #文章分類目錄 可以省略&lt;br&gt;tags: #文章標籤 可以省略&lt;/p&gt;
+&lt;p&gt;date: 2018-01-01 23:47:44 #文章生成時間&lt;br&gt;title: 第二个&lt;br&gt;categories: “读书笔记” #文章分類目錄 可以省略&lt;br&gt;tags: #文章標籤 可以省略&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;- 第二个 标签1    
 
       
