@@ -379,13 +379,13 @@ code {
   font-size: 16px;
   font-style: italic;
   line-height: 70px;
-  color: ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
   float: left;
-  color: ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
   text-decoration: none;
   text-shadow: 0 1px rgba(0,0,0,0.2);
   display: block;
@@ -398,7 +398,7 @@ code {
 .nav-container .nav-icon:hover,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link:hover {
   color: #fff;
-  background: rgba(0,0,0,0.1);
+  background: #fffafa /*rgba(0,0,0,0.1)*/;
 }
 .nav-container {
   padding: 0 15px;
@@ -514,7 +514,7 @@ code {
 .search-form:before {
   content: "\f002";
   margin-right: 8px;
-  color: ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
   font: normal normal normal 16px/1 FontAwesome;
 }
 .search-form-input,
@@ -534,7 +534,7 @@ code {
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
   font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
-  color: ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
@@ -2067,11 +2067,11 @@ i.icon:before {
   }
   #header .nav-container #main-nav .main-nav-list-item.top-level-menu:hover > a {
     background: none;
-    color: ffeef3 /*rgba(255,255,255,0.7)*/;
+    color: #ffeef3 /*rgba(255,255,255,0.7)*/;
   }
   #header .nav-container #main-nav .main-nav-list-item.top-level-menu > a:hover {
     color: #fff;
-    background: rgba(0,0,0,0.1);
+    background: #fffafa /*rgba(0,0,0,0.1)*/;
   }
   #header .nav-container #main-nav .main-nav-list-item .main-nav-list-child {
     display: block !important;
