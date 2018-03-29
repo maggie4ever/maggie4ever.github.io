@@ -40,7 +40,7 @@
 .widget h6,
 .article-entry h6 {
   font-size: 1em;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
 }
 .widget hr,
 .article-entry hr {
@@ -240,7 +240,7 @@ code {
   font-size: 0.8em;
   border-radius: 2px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
-  background-color: #fff0f5 /*f8f8f8*/;
+  background-color: #f8f8f8;
 }
 .container {
   position: relative;
@@ -314,7 +314,7 @@ code {
   min-height: 600px;
 }
 #main .main-body-header {
-  background: #ffaeb9 /*#fff*/;
+  background: #fff;
   position: relative;
   padding: 18px 30px 17px;
   border-bottom: 1px solid #feeff4 /*eee*/;
@@ -333,7 +333,7 @@ code {
 }
 #main .main-body-header em,
 #main .main-body-header a {
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
 }
 #main .main-body-content:before,
 #main .main-body-content:after {
@@ -379,13 +379,13 @@ code {
   font-size: 16px;
   font-style: italic;
   line-height: 70px;
-  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
   float: left;
-  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: rgba(255,255,255,0.7);
   text-decoration: none;
   text-shadow: 0 1px rgba(0,0,0,0.2);
   display: block;
@@ -398,7 +398,7 @@ code {
 .nav-container .nav-icon:hover,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link:hover {
   color: #fff;
-  background: #fffafa /*rgba(0,0,0,0.1)*/;
+  background: rgba(0,0,0,0.1);
 }
 .nav-container {
   padding: 0 15px;
@@ -514,7 +514,7 @@ code {
 .search-form:before {
   content: "\f002";
   margin-right: 8px;
-  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: rgba(255,255,255,0.7);
   font: normal normal normal 16px/1 FontAwesome;
 }
 .search-form-input,
@@ -534,7 +534,7 @@ code {
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
   font: 16px "Titillium Web", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;
-  color: #ffeef3 /*rgba(255,255,255,0.7)*/;
+  color: rgba(255,255,255,0.7);
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
@@ -655,7 +655,7 @@ code {
   position: relative;
   margin-top: 0;
   display: block;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   padding: 16px 40px 24px;
   border-bottom: 1px solid #fdf1f5 /*ddd*/;
   -webkit-transition: 0.2s ease-in;
@@ -688,7 +688,7 @@ code {
 .article-nav-caption {
   display: block;
   font-size: 12px;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   letter-spacing: 0.5px;
   line-height: 24px;
   font-weight: normal;
@@ -896,7 +896,7 @@ code {
 .tag-list-count,
 .archive-list-count {
   padding-left: 5px;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   font-size: 0.85em;
 }
 .category-list-count:before,
@@ -1230,7 +1230,7 @@ a.article-title:hover {
   margin-left: 1em;
 }
 .article-entry .caption {
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   display: block;
   font-size: 0.9em;
   margin-top: 0.5em;
@@ -1259,7 +1259,7 @@ a.article-title:hover {
   padding: 6px 15px;
   border-radius: 15px;
   background: #fff0f5 /*里面的文章底色是浅粉*/ /* #eaeaea*/;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   text-shadow: 0 1px #fff;
   text-decoration: none;
 }
@@ -1284,7 +1284,7 @@ a.article-title:hover {
   clear: both;
 }
 .article-footer a {
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   text-decoration: none;
 }
 .article-footer a:hover {
@@ -1552,7 +1552,7 @@ a.article-title:hover {
   margin-top: 1em;
 }
 .archive-article-date {
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   text-decoration: none;
   font-size: 0.85em;
   line-height: 1em;
@@ -1565,7 +1565,7 @@ a.article-title:hover {
   display: block;
   margin: 30px 0px 45px 0px;
   text-align: center;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
 }
 #page-nav:before,
 #page-nav:after {
@@ -1621,7 +1621,7 @@ a.article-title:hover {
 #footer {
   background: #fcdbd6 /*footer的背景*/ /*#33363b*/;
   margin-top: 60px;
-  color: #fff0f5 /*aaa*/;
+  color: #aaa;
   line-height: 1.6em;
 }
 #footer a {
@@ -2067,11 +2067,11 @@ i.icon:before {
   }
   #header .nav-container #main-nav .main-nav-list-item.top-level-menu:hover > a {
     background: none;
-    color: #ffeef3 /*rgba(255,255,255,0.7)*/;
+    color: rgba(255,255,255,0.7);
   }
   #header .nav-container #main-nav .main-nav-list-item.top-level-menu > a:hover {
     color: #fff;
-    background: #fffafa /*rgba(0,0,0,0.1)*/;
+    background: rgba(0,0,0,0.1);
   }
   #header .nav-container #main-nav .main-nav-list-item .main-nav-list-child {
     display: block !important;
