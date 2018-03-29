@@ -240,7 +240,7 @@ code {
   font-size: 0.8em;
   border-radius: 2px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
-  background-color: #f8f8f8;
+  background-color: #fff0f5 /*f8f8f8*/;
 }
 .container {
   position: relative;
