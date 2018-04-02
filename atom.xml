@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-29T11:45:43.077Z</updated>
+  <updated>2018-04-02T10:00:43.575Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>excerpt</title>
+    <link href="http://yoursite.com/2018/04/02/excerpt/"/>
+    <id>http://yoursite.com/2018/04/02/excerpt/</id>
+    <published>2018-04-02T09:56:39.000Z</published>
+    <updated>2018-04-02T10:00:43.575Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2018/04/02/excerpt/360儿童手表.png" alt="360儿童手表"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2018/04/02/excerpt/360儿童手表.png&quot; alt=&quot;360儿童手表&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="产品笔记" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="-AI" scheme="http://yoursite.com/tags/AI/"/>
+    
+  </entry>
   
   <entry>
     <title>怦然心动的人生整理魔法</title>
